@@ -1,0 +1,20 @@
+{
+  "name": "ordinarysbegone",
+  "homepage": "https://github.com/0x70b1a5/ordinarysbegone",
+  "authors": [
+    "Tobias Merkle <tgamerkle@gmail.com>"
+  ],
+  "description": "A bot that tweets normie stuff on your real-name account so you don't have to. Edit",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.1.0"
+  }
+}
